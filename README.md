@@ -1,2 +1,2 @@
 # chatbot1
-# source code not public
+# source code not available for everyone 
